@@ -1,8 +1,6 @@
 # InclueBot
 A Slack bot to gently work towards more inclusive language
 
-No, it's not a typo.
-
 ### Description
 
 A Slack bot to aid in reminding people to use inclusive language when chatting in our public and private channels.
