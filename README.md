@@ -1,4 +1,4 @@
-# InlcueBot
+# InclueBot
 A Slack bot to gently work towards more inclusive language
 
 No, it's not a typo.
