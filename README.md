@@ -9,7 +9,7 @@ A Slack bot to aid in reminding people to use inclusive language when chatting i
 
 Inspired by this article, we originally implemented a set of Slackbot responses to prompt people in our community on reasons why the use of certain words are discouraged and suggesting alternatives.
 
-InlcueBot is the follow on, and moves from using Slackbot responses (which effect the whole of a workspace) to a dedicated bot that must be invited in to channels to become active. When InclueBot encounters an included term it will respond with an ephemeral message (one that only the poster will see) in the channel.
+InclueBot is the follow on, and moves from using Slackbot responses (which effect the whole of a workspace) to a dedicated bot that must be invited in to channels to become active. When InclueBot encounters an included term it will respond with an ephemeral message (one that only the poster will see) in the channel.
 
 To track term usage, InclueBot stores the following information in a DynamoDb table;
 
